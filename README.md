@@ -72,7 +72,7 @@ root.right = Node(1)
 root.right.left = Node(3)
 
 ***Відображення дерева***
-draw_tree(root) ```python
+draw_tree(root) ```
 
 Використовуючи як базу цей код, побудуйте функцію, що буде візуалізувати бінарну купу.
 
